@@ -8,7 +8,7 @@
     },
     {
       "id": "41",
-      "firstName": "Nick",
+      "firstName": "Dick",
       "age": 40,
       "companyId": "2"
     },
@@ -17,11 +17,6 @@
       "age": 25,
       "companyId": "1",
       "id": "S1TKHzuwl"
-    },
-    {
-      "firstName": "Sean",
-      "age": 23,
-      "id": "FNk__fBx"
     }
   ],
   "companies": [
